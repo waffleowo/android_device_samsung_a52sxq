@@ -382,3 +382,14 @@ vendor/firmware/wlan/a528b/rev7/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d2
 vendor/firmware/wlan/a528b/rev7/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
 vendor/firmware/wlan/a528b/rev7/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
 vendor/firmware/wlan/a528b/rev7/wpss.mdt|6ee8baf9aaa991818a5e561915d9ff77a7eb9adf
+
+# Wifi firmware (bootloader revision 4) - from A528NKSU4GXE1 (U)
+vendor/firmware/wlan/a528n/rev4/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
+vendor/firmware/wlan/a528n/rev4/wpss.b01|beedaf669d5d02b3d6d85aa4438ba1f58e6a08e8
+vendor/firmware/wlan/a528n/rev4/wpss.b02|30b71fe8d1d25fb3f540a418deeb47f853d8d094
+vendor/firmware/wlan/a528n/rev4/wpss.b03|21c4f4c69d818c8f968bf380115041ab304f8dd8
+vendor/firmware/wlan/a528n/rev4/wpss.b04|135fffcac148bb0cc319d92557e00e90485d4f1f
+vendor/firmware/wlan/a528n/rev4/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d20
+vendor/firmware/wlan/a528n/rev4/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
+vendor/firmware/wlan/a528n/rev4/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
+vendor/firmware/wlan/a528n/rev4/wpss.mdt|abe4372f07c05d6a126961023e673a45d86cf585
