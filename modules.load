@@ -38,7 +38,6 @@ tuner-xc2028.ko
 sec_tsp_log.ko
 slimbus-ngd.ko
 sec_tclm_v2.ko
-kperfmon.ko
 sec_tsp_dumpkey.ko
 tcp_westwood.ko
 adsp_loader_dlkm.ko
