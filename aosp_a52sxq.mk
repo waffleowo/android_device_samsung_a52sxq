@@ -39,21 +39,21 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 TARGET_SUPPORTS_OMX_SERVICE := false
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
-# Inherit some common Lineage stuff
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit some common AOSP stuff
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Enable updating of APEXes
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
 # Boot animation
-TARGET_SCREEN_HEIGHT := 2400
-TARGET_SCREEN_WIDTH := 1080
+TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # NFC
 TARGET_HAVE_SEC_NFC := true
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_a52sxq
+PRODUCT_NAME := aosp_a52sxq
 PRODUCT_DEVICE := a52sxq
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A528B
